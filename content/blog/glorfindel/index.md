@@ -43,7 +43,7 @@ print("Balrog-Slayer")
 While Legolas enchants with his feats, Glorfindel embodies the quintessential strength and dignity of the Eldar, a figure whose very presence commands respect:
 
 - **Elven Majesty**: Renowned for his radiant aura and golden hair, Glorfindel is described as exuding an aura of light akin to the Valar, a stark contrast to the stealthy, sylvan skill of Thranduil's son.
-- **Fearless Leadership**: His leadership during times of strife underscores a dedication to duty and an unwavering resolve—a guiding light for both Elves and Men.
+- **Fearless Leadership**: His leadership during times of strife underscores a dedication to duty and an unwavering resolve a guiding light for both Elves and Men.
 
 ## Themes of **Enduring** Legacy
 

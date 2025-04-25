@@ -10,8 +10,9 @@ def main() -> None:
         base_path = args[-1]
     else:
         base_path = "/"
+    print(base_path)
     static = "./static"
-    public = "./public"
+    public = "./docs"
     move(static, public)
 
     generate_pages_recursively(base_path)

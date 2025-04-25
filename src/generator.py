@@ -3,9 +3,9 @@ from parser import markdown_to_html_node, extract_title
 
 
 def generate_pages_recursively(base_path):
-    src_path = os.path.join(".", "content")
-    dest_path = os.path.join(".", "public")
-    template_path = os.path.join(".", "template.html")
+    src_path = "content/"
+    dest_path = "docs/"
+    template_path = "template.html"
 
     def generate_pages(src_path, template_path, dest_path):
         for file in os.listdir(src_path):
